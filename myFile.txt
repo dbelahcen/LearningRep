@@ -1,2 +1,3 @@
 Test
 second line on master
+Third line in sideBranch
