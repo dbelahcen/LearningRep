@@ -2,3 +2,4 @@ Test
 second line on master
 Third line in sideBranch
 Forth line in sideBranch
+fifth line in master
